@@ -30,4 +30,4 @@ async def self(interaction: discord.Interaction, ilość: int):
         a = a + 1
     await interaction.response.send_message(f"Liczba to {help}", ephemeral = False)
     
-client.run('ODM0ODE4OTM1NjkzMTE1NDEy.GGscZB.uwmrs_VZ3k1J_inIQmScOKv_y2TLuTHcwYpoWw')
+client.run('')
